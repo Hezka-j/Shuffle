@@ -1,0 +1,14 @@
+D:\Проекты\Random Shuffle\bin\Debug\net8.0\Random Shuffle.exe
+D:\Проекты\Random Shuffle\bin\Debug\net8.0\Random Shuffle.deps.json
+D:\Проекты\Random Shuffle\bin\Debug\net8.0\Random Shuffle.runtimeconfig.json
+D:\Проекты\Random Shuffle\bin\Debug\net8.0\Random Shuffle.dll
+D:\Проекты\Random Shuffle\bin\Debug\net8.0\Random Shuffle.pdb
+D:\Проекты\Random Shuffle\obj\Debug\net8.0\Random Shuffle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Random Shuffle\obj\Debug\net8.0\Random Shuffle.AssemblyInfoInputs.cache
+D:\Проекты\Random Shuffle\obj\Debug\net8.0\Random Shuffle.AssemblyInfo.cs
+D:\Проекты\Random Shuffle\obj\Debug\net8.0\Random Shuffle.csproj.CoreCompileInputs.cache
+D:\Проекты\Random Shuffle\obj\Debug\net8.0\Random Shuffle.dll
+D:\Проекты\Random Shuffle\obj\Debug\net8.0\refint\Random Shuffle.dll
+D:\Проекты\Random Shuffle\obj\Debug\net8.0\Random Shuffle.pdb
+D:\Проекты\Random Shuffle\obj\Debug\net8.0\Random Shuffle.genruntimeconfig.cache
+D:\Проекты\Random Shuffle\obj\Debug\net8.0\ref\Random Shuffle.dll
